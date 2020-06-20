@@ -1,0 +1,3 @@
+module kartkowkaGit {
+	exports kartkowkaGit;
+}
